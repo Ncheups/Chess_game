@@ -1,0 +1,10 @@
+C:\Users\nolha\Desktop\ChessGame-master\Chess\bin\Debug\Chess.exe.config
+C:\Users\nolha\Desktop\ChessGame-master\Chess\bin\Debug\Chess.exe
+C:\Users\nolha\Desktop\ChessGame-master\Chess\bin\Debug\Chess.pdb
+C:\Users\nolha\Desktop\ChessGame-master\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\nolha\Desktop\ChessGame-master\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\nolha\Desktop\ChessGame-master\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\nolha\Desktop\ChessGame-master\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\nolha\Desktop\ChessGame-master\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\nolha\Desktop\ChessGame-master\Chess\obj\Debug\Chess.exe
+C:\Users\nolha\Desktop\ChessGame-master\Chess\obj\Debug\Chess.pdb
